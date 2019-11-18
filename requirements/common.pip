@@ -6,3 +6,4 @@
 
 Django==1.11
 psycopg2
+netCDF4
