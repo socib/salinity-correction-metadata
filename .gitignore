@@ -1,0 +1,15 @@
+*.pyc
+*.egg-info
+# Exclude ipython notebook files marked as local
+*local.ipynb
+vessel_correction/settings/local.py*
+ext/
+docs/_build
+/static/
+/uploads/
+/data/
+/.ipynb_checkpoints/
+.idea
+*.swp
+.vagrant
+vessel_correction/uploads

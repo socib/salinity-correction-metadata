@@ -1,0 +1,8 @@
+-r common.pip
+
+django-extensions
+Werkzeug
+jupyter
+pyzmq
+jinja2
+tornado
